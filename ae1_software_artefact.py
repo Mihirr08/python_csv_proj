@@ -68,7 +68,7 @@ with open(pathToCsv, "r") as csvFile:
             print("--------------------------------------")
             break
     
-    # a (2)
+    # a (4)
     propertyType = input("Enter your property type:\n")
 
     for row in csvReader:
